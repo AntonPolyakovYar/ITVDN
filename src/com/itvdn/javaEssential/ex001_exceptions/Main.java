@@ -14,6 +14,7 @@ public class Main {
             System.out.println("a = " + a);
         } catch (Exception e) {
             System.out.println("Обработка исключения.");
+            System.out.println("НУ И ЧТО ТЫ СДЕЛАЛ");
             System.out.println(e.getMessage());
         }
     }
