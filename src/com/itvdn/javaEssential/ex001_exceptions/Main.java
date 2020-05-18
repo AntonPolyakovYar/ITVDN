@@ -15,6 +15,7 @@ public class Main {
         } catch (Exception e) {
             System.out.println("Обработка исключения.");
             System.out.println("НУ И ЧТО ТЫ СДЕЛАЛ");
+            System.out.println("на github");
             System.out.println("Да ты знаешь гит в совершенстве");
             System.out.println(e.getMessage());
         }
